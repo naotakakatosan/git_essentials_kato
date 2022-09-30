@@ -1,2 +1,2 @@
-new brance file only shows up in the new branch
+new brance file shows sup in master and new branch
 
